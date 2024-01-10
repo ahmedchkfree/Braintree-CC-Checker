@@ -3,7 +3,7 @@
     "description": "This CC Checker bot to check charged cc",
     "keywords": [
         "Telethon",
-        "flask",
+        "flask"
         "heroku"
     ],
 
